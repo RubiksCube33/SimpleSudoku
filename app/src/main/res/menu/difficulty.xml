@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/reset"
+        android:title="@string/reset" />
+    <item
+        android:id="@+id/pickdifficult"
+        android:title="@string/difficulty">
+        <menu>
+            <item
+                android:id="@+id/easy"
+                android:title="@string/easy" />
+            <item
+                android:id="@+id/normal"
+                android:title="@string/normal" />
+            <item
+                android:id="@+id/hard"
+                android:title="@string/hard" />
+            <item
+                android:id="@+id/hell"
+                android:title="@string/hell" />
+        </menu>
+    </item>
+</menu>

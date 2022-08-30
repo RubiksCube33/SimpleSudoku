@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">간단한 스도쿠</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">  </string>
+    <string name="reset">초기화</string>
+    <string name="difficulty">난이도 선택</string>
+    <string name="easy">초급</string>
+    <string name="normal">중급</string>
+    <string name="hard">고급</string>
+    <string name="hell">최고급</string>
+    <string name="pick">빈칸을 선택하고 숫자 버튼을 눌러주세요.</string>
+
+</resources>
